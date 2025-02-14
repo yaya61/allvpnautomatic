@@ -1,5 +1,5 @@
 # 1. Télécharger les templates
-git clone https://example.com/vpn-templates $CONFIG_ROOT/templates
+git clone https://github.com/yaya61/allvpnautomatic.git $CONFIG_ROOT/templates
 
 # 2. Exécuter le script
 chmod +x deploy.sh
